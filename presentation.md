@@ -5,7 +5,7 @@
 ## Agenda
 
 *  Announcements
-*  Lightning Talks
+*  Kata
 *  Main Talk
 *  Sponsors
 *  Drinks / Socialize
@@ -14,14 +14,12 @@
 
 ## Announcements
 
+*  Looking for speakers (openings for the rest of the year)
+*  We need volunteers
 *  PhillyETE 2015 - http://phillyemergingtech.com/
-*  PhillyDev Slack - Talk to Justin Campbell
-*  Project Night
-*  Looking for speakers
-
----
-
-## Lightning Talks
+*  PhillyDev Slack - http://phillydev.org/
+*  Goruco http://goruco.com/
+*  Any other announcements?
 
 ---
 
@@ -30,6 +28,9 @@
 ---
 
 ## Sponsors
+
+*  Comcast
+*  PipelineDeals
 
 ---
 
