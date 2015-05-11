@@ -5,20 +5,28 @@
 ## Agenda
 
 *  Announcements
-*  Kata
+*  Lightning Talks
 *  Main Talk
 *  Sponsors
 *  Drinks / Socialize
 
 ---
 
+## Find us on the internet
+*  Twitter - @phillyrb
+*  PhillyDev Slack(chat) - http://phillydev.org/
+*  Meetup - http://meetup.com/phillyrb
+*  Website - http://phillyrb.org
+*  Google Group - https://groups.google.com/forum/#!forum/phillyrb
+
+---
+
 ## Announcements
 
 *  Looking for speakers (openings for the rest of the year)
-*  We need volunteers
-*  PhillyETE 2015 - http://phillyemergingtech.com/
-*  PhillyDev Slack - http://phillydev.org/
 *  Goruco http://goruco.com/
+*  Ruby Nation http://www.rubynation.org/
+*  Burlington Ruby http://www.burlingtonrubyconference.com/
 *  Any other announcements?
 
 ---
